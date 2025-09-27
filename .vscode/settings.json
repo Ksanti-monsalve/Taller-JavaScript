@@ -1,5 +1,6 @@
 {
     "conventionalCommits.scopes": [
         "Cambio de emoji"
-    ]
+    ],
+    "liveServer.settings.port": 5502
 }
